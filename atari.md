@@ -5,8 +5,9 @@ Fundada..
 _cursiva_
 >cita - bns
 Barra horizontal
+------
 
-----
+
 
 ## Juegos
 * Space invaders

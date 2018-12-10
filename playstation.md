@@ -1,2 +1,2 @@
 # Play Station
-Spider man
+Spider mans
